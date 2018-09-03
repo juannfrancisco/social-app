@@ -1,0 +1,18 @@
+.container-profile{
+    width: 900px;
+    margin: auto;
+}
+
+.example-header-image{
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+}
+
+.container-profile-user{
+    padding: 30px 0px;
+    display: flex;
+}
+
+.container-profile-posts{
+    display: flex;
+}
